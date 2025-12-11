@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Bhagat</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Full Stack Developer | Data Enthusiast | Tech Explorer</h3>
+<h3 align="center">Aspiring AI/ML Enginee | Full Stack Developer | Data Enthusiast | Tech Explorer</h3>
 
 - 🌱 Currently learning **Deep Learning, Docker, Cloud Deployment (AWS)**  
 - 💡 Exploring **AI-driven apps**, **FastAPI**, and **real-time data systems**
